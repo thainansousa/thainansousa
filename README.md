@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente trabalho com Redes de computadores
-- 🌱 Estudo toda stack javascript (React, Node, MongoDB) com Typescript
+- 🌱 Estudo toda stack javascript (React, Node, MongoDB)
+- 🌱 Ah, e utilizo Typescript em meus projetos.
 
 <div align="center">
   <a href="https://github.com/thainansousa">

@@ -1,10 +1,9 @@
 ### Opa, eu sou o Thainan Sousa
 
 
-- 🔭 Atualmente trabalho com Redes de computadores
-- 🌱 Estudo toda stack javascript (React, Node, MongoDB)
-- 🌱 Ah, e utilizo Typescript em meus projetos.
-
+- 🔭 Atualmente trabalho com Redes de computadores.
+- Learning...
+  
 <div align="center">
   <a href="https://github.com/thainansousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainansousa&show_icons=true&theme=vue&include_all_commits=true&count_private=false"/>
@@ -12,6 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Thainan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-plain.svg">
+  <img align="center" alt="Thainan-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/django-plain.svg">
   <img align="center" alt="Thainan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thainan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thainan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">

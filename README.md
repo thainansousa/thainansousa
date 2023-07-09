@@ -11,8 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thainan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-plain.svg">
-  <img align="center" alt="Thainan-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/django-plain.svg">
+  <img align="center" alt="Thainan-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Thainan-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Thainan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thainan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thainan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">

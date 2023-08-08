@@ -1,4 +1,4 @@
-### Opa, eu sou o Thainan Sousa
+### Opa, bêlê?
 
 
 - 🔭 Atualmente trabalho com Redes de computadores.

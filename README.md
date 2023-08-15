@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Redes de computadores.
-- Learning...
+- Always learning...
   
 <div align="center">
   <a href="https://github.com/thainansousa">

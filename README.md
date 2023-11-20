@@ -1,7 +1,7 @@
-### Opa, bêlê?
+### Hi guys!
 
 
-- 🔭 Atualmente trabalho com Redes de computadores.
+- 🔭 Computer Network and Programming.
 - Always learning...
   
 <div align="center">

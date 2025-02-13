@@ -2,6 +2,7 @@
 
 
 - 🔭 Computer Network and Programming.
+- Computer Engineer
 - Always learning...
   
 <div align="center">

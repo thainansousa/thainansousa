@@ -1,14 +1,9 @@
-### Hi guys!
+### Fala pessoal!
 
 
-- 🔭 Computer Network and Programming.
-- Computer Engineer
-- Always learning...
-  
-<div align="center">
-  
-[![Thainan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thainansousa&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+- Desenvolvedor de Software .Net JR.
+- Engenharia da Computação
+- Sempre aprendendo...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thainan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">

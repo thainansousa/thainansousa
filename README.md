@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thainansousa&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainansousa&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Contato
 
 <p align="center">
@@ -53,7 +44,7 @@
   <a href="mailto:thainansousa7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/thainan-sousa-0347a3180">
+  <a href="https://www.linkedin.com/in/thainan-sousa">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>

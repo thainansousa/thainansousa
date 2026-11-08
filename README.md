@@ -69,5 +69,5 @@ Sou desenvolvedor com foco em **C# e o ecossistema .NET**, atuando na construç�
 
 ---
 <p align="center">
-  <em>"A tecnologia move o mundo." — Steve Jobs</em>
+  <em>"A educação transforma."</em>
 </p>
